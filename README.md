@@ -1,0 +1,1 @@
+misc flags for sporcle
